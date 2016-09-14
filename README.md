@@ -10,3 +10,4 @@ Comments are in French in the code
 ----------------
 Chaque image de la sphère est choisie aléatoirement parmi les images situées dans le dossier data
 Les commentaires sont en français dans le code.
+Les commentaires sont en français dans le code.
