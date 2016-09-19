@@ -20,7 +20,7 @@ float rayonCamera;
 int angleGlob = 0;
 
 void setup() {//fonction d'initialisation de la scène
-  size(LARGEUR, HAUTEUR, P3D); 
+  size(900, 500, P3D); 
  
   
   for(int i=0; i < tabImages.length; i++ ) {
